@@ -15,7 +15,6 @@ public class FinchyBlockTracker extends Plugin {
 
 	public static String Name = "FinchyBlockTracker";
 	public static String Version = "1.0";
-	public static String Author = "Geistes ";
 	
 	public static Logger logger = Logger.getLogger(Name + " " + Version);
 
